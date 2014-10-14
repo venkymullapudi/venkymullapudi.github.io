@@ -3,4 +3,4 @@ venkymullapudi.github.io
 
 LoginToMany
 
-Demo @ http://venkymullapudi.github.io/
+Coming Soon Page @ http://venkymullapudi.github.io/
